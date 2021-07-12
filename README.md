@@ -1,1 +1,63 @@
-# Python-wiki
+# This repository has all exercises response from the Python wiki list
+
+list
+
+<table aligin="center">
+    <tr>
+      <th>List</th>
+      <th>Status</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td>EstruturaSequencial</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>EstruturaDeDecisao</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>EstruturaDeRepeticao</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ExerciciosListas</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ExerciciosFuncoes</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ExerciciosComStrings</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ExerciciosComStrings</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ExerciciosArquivos</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ExerciciosClasses</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+      <td>ListaDeExerciciosProjetos</td>
+      <td></td>
+      <td></td>
+    <tr>
+    </tr>
+    </tr>
+</table>
