@@ -2,7 +2,7 @@
 
 list
 
-<table aligin="center">
+<table align="center">
     <tr>
       <th>List</th>
       <th>Status</th>
